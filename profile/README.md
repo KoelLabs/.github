@@ -51,9 +51,9 @@ It is sufficiently differentiated from existing solutions yet exists within a pr
 - [ ] Recommendation system that recommends movies/shows that are appropriate to the learners language level
 
 ## The Team
-- [Alexander Metzger](https://sandergi.com/) (he/him/his) - CEO - experienced with finetuning/training ASR/TTS models, MLOps, full stack development, startups and open source.
-- [Aruna Srivastava](https://www.linkedin.com/in/arunasri) (she/her) - Machine Learning Scientist - experienced with NLP + Linguistics and figma design.
-- [Ruslan Mukhamedvaleev](https://github.com/digitalRM) (he/them) - Web Developer - experienced with front-end React development.
+- [Alexander Metzger](https://sandergi.com/) (he/him/his) - Founder & CEO - experienced with finetuning/training ASR/TTS models, MLOps, full stack development, startups and open source.
+- [Aruna Srivastava](https://www.linkedin.com/in/arunasri) (she/her) - Co-Founder & Machine Learning Scientist - experienced with NLP + Linguistics and figma design.
+- [Ruslan Mukhamedvaleev](https://github.com/digitalRM) (he/them) - Co-Founder & Web Developer - experienced with front-end React development.
 
 ## Broader Impact
 Ethical considerations when teaching language at scale include taking care to not push one “standard” dialect (e.g. the White-American pronunciation) thus perpetuating particular expectations of how words should be pronounced. We hope to address this by offering a wide variety of movies/shows with different dialects for learners to choose from (and by leveraging audio models with diverse dialect support).
