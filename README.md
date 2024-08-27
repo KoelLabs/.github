@@ -8,3 +8,6 @@
 Koel Labs innovates tools to provide real-time feedback and improve your pronunciation. Useful for language learning! This repo contains the organization profile README, logos and other resources.
 
 Checkout the [organization profile README](https://github.com/KoelLabs/.github/tree/main/profile) for details.
+
+## License
+We reserve all rights to all Koel logos, written content, trademarks and more contained in this repo.
