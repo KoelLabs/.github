@@ -51,7 +51,7 @@ It is sufficiently differentiated from existing solutions yet exists within a pr
 - [ ] Recommendation system that recommends movies/shows that are appropriate for a learner’s language level
 
 ## The Team
-- [Alexander Metzger](https://sandergi.com/) (he/him/his) — Founder and CEO — experienced with fine-tuning/training ASR/TTS models, MLOps, full-stack development, startups, and open source.
+- [Alexander Metzger](https://sandergi.com/) (he/him/his) — Co-Founder and CEO — experienced with fine-tuning/training ASR/TTS models, MLOps, full-stack development, startups, and open source.
 - [Aruna Srivastava](https://www.linkedin.com/in/arunasr) (she/her) - Co-Founder and Machine Learning Scientist - experienced with NLP, MLOps, Deep learning, and Linguistics 
 - [Ruslan Mukhamedvaleev](https://github.com/digitalRM) (he/them) - Co-Founder and Full-Stack Software Developer - experienced with full-stack development (React, NextJS, VueJS), UI/UX design, and branding.
 
@@ -64,6 +64,9 @@ Ethical considerations when teaching language at scale include not pushing one �
 Application code and prompts will be open-sourced under the [FSL-1.1-Apache-2.0](https://fsl.software/)
 
 Model weights and training code will be open-sourced under the [CreativeML Open RAIL-M](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+
+### A Mozilla Builders Project
+- We are excited to participate in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
 
 ### Repositories
 - Machine Learning models and pipelines: [Link](https://github.com/KoelLabs/ML)
