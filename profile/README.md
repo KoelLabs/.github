@@ -51,8 +51,8 @@ It is sufficiently differentiated from existing solutions yet exists within a pr
 - [ ] Recommendation system that recommends movies/shows that are appropriate for a learner’s language level
 
 ## The Team
-- [Alexander Metzger](https://sandergi.com/) (he/him/his) — Co-Founder and CEO — experienced with fine-tuning/training ASR/TTS models, MLOps, full-stack development, startups, and open source.
-- [Aruna Srivastava](https://www.linkedin.com/in/arunasr) (she/her) - Co-Founder and Machine Learning Scientist - experienced with NLP, MLOps, Deep learning, and Linguistics 
+- [Alexander Metzger](https://sandergi.com/) (he/him/his) — Founder and CEO — experienced with fine-tuning/training ASR/TTS models, MLOps, full-stack development, startups, and open source.
+- [Aruna Srivastava](https://www.linkedin.com/in/arunasr) (she/her) - Co-Founder and Machine Learning Scientist - experienced with NLP, MLOps, Deep learning, and Linguistics.
 - [Ruslan Mukhamedvaleev](https://github.com/digitalRM) (he/them) - Co-Founder and Full-Stack Software Developer - experienced with full-stack development (React, NextJS, VueJS), UI/UX design, and branding.
 
 _**Shipping with ❤️ from Seattle, Washington.**_
@@ -63,14 +63,16 @@ Ethical considerations when teaching language at scale include not pushing one �
 ## Open Source Licensing
 Application code and prompts will be open-sourced under the [FSL-1.1-Apache-2.0](https://fsl.software/)
 
-Model weights and training code will be open-sourced under the [CreativeML Open RAIL-M](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+Model weights will be open-sourced under the [CreativeML Open RAIL-M](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+
+Training code will be open-sourced under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### A Mozilla Builders Project
-- We are excited to participate in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
+We are excited to participate in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
 
 ### Repositories
-- Machine Learning models and pipelines: [Link](https://github.com/KoelLabs/ML)
-- Web Application: [Link Coming Soon...](https://github.com/KoelLabs/webapp)
+- Machine Learning data processing, training, and evaluation code: [Link](https://github.com/KoelLabs/ML)
+- Web Application: [Link](https://github.com/KoelLabs/webapp)
 
 ### Contributing
 We are not yet at the stage of receiving pull requests. You are welcome to get involved with suggestions/feedback in Github discussions and through issues on our public repos. Support through the PayPal and Patreon links at the top of the README is always appreciated. Happy language learning!
