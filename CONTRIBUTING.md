@@ -34,7 +34,7 @@ Koel Labs has a couple of different repositories. Each contains a CONTRIBUTING.m
 
 ### Reporting Bugs
 
-Start by looking through the [FAQ](#faq) and the current open issues. 
+Start by looking through the [FAQ](#faq) and the [current open issues](https://github.com/search?q=+is%3Aissue+user%3AKoelLabs&type=issues). 
 If your bug already has an open issue, post your details there.
 Otherwise, open a new issue using the following template:
 ```md
@@ -88,7 +88,7 @@ Otherwise, open a new issue using the following template:
 ```
 
 ### Suggesting Enhancements
-Start by looking through the existing issues. If a similar feature request already exists, add your thoughts to that issue.
+Start by looking through the [existing issues](https://github.com/search?q=+is%3Aissue+user%3AKoelLabs&type=issues). If a similar feature request already exists, add your thoughts to that issue.
 Otherwise, open a new issue using the following template (make sure to use a clear and descriptive title):
 ```md
 ## Summary
@@ -109,7 +109,7 @@ Otherwise, open a new issue using the following template (make sure to use a cle
 ```
 
 ### Your First Code Contribution
-Unsure where to start? Each repo will have issues tagged with `beginner` and `help-wanted`. 
+Unsure where to start? Each repo will have [issues](https://github.com/search?q=+is%3Aissue+user%3AKoelLabs&type=issues) tagged with `beginner` and `help-wanted`. 
 Beginner issues will require a few lines of code and a test or two and are a good way to get familiar with the layout of the code-base.
 Help-wanted issues might be a bit more involved.
 
