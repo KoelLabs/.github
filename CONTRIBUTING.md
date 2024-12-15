@@ -65,7 +65,7 @@ Otherwise, open a new issue using the following template:
 **Actual behavior:**
 
 <!-- What actually happens -->
-<!-- Screenshort of any error messages in the terminal or browser console -->
+<!-- Screenshots of any error messages in the terminal or browser console -->
 
 **Reproduces how often:**
 
