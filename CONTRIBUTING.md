@@ -98,6 +98,7 @@ Otherwise, open a new issue using the following template (make sure to use a cle
 ## Motivation
 
 <!-- Why are we doing this? What use cases does it support? What is the expected outcome? -->
+<!-- A clear and concise description of what the problem being solved is. Ex. I'm always frustrated when... -->
 
 ## Describe alternatives you've considered
 
