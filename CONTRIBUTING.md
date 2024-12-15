@@ -110,7 +110,7 @@ Otherwise, open a new issue using the following template (make sure to use a cle
 ```
 
 ### Your First Code Contribution
-Unsure where to start? Each repo will have [issues](https://github.com/search?q=+is%3Aissue+user%3AKoelLabs&type=issues) tagged with `beginner` and `help-wanted`. 
+Unsure where to start? Each repo will have [issues](https://github.com/search?q=+is%3Aissue+user%3AKoelLabs&type=issues) tagged with `good first issue` and `help wanted`. 
 Beginner issues will require a few lines of code and a test or two and are a good way to get familiar with the layout of the code-base.
 Help-wanted issues might be a bit more involved.
 
