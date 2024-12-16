@@ -40,12 +40,14 @@ It is sufficiently differentiated from existing solutions yet exists within a pr
 
 ## Roadmap
 - [x] Acquire funding from Mozilla Builders
+- [x] Evaluate existing IPA transcription models
+- [x] Fine-tune/train and evaluate a model that does IPA transcription with timestamps for English
+- [x] Create a proof of concept feedback pipeline 
+- [x] Create a web application that allows desktop users to practice audio clips from their favorite shows
 - [ ] Evaluate existing models for pitch accent, ToBI intonation labeling, stress accent detection, etc.
-- [ ] Fine-tune/train and evaluate a model that does IPA transcription with timestamps for English
 - [ ] Curate a small evaluation dataset for prompt engineering and LLM choice. This will include a handful of everyday speech phenomena to ensure the model can explain the relevant tongue positioning, etc.
 - [ ] Create and iterate on an LLM pipeline to provide feedback to the user
 - [ ] Create/license visuals/animations for each phoneme (there are less than 40 relevant for English) and curate a database of common words in different languages that can be used to explain English sounds to their native speakers
-- [ ] Create a web application that allows desktop users to practice audio clips from their favorite shows (see the [Figma demo](https://www.figma.com/proto/VPHimCfONGurh0s07IKova/Mozilla_Pitch?node-id=2-187&t=slW83co4vzXQNPGt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1))
 - [ ] Support more languages for learning
 - [ ] Expand the number of available audio sources (e.g., audiobooks from LibriVox)
 - [ ] Recommendation system that recommends movies/shows that are appropriate for a learner’s language level
@@ -68,11 +70,12 @@ Model weights will be open-sourced under the [CreativeML Open RAIL-M](https://hu
 Training code will be open-sourced under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### A Mozilla Builders Project
-We are excited to participate in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
+We are excited to have participated in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
 
 ### Repositories
 - Machine Learning data processing, training, and evaluation code: [Link](https://github.com/KoelLabs/ML)
 - Web Application: [Link](https://github.com/KoelLabs/webapp)
+- Python ML inference server: [Link](https://github.com/KoelLabs/server)
 
 ### Contributing
-We are not yet at the stage of receiving pull requests. You are welcome to get involved with suggestions/feedback in Github discussions and through issues on our public repos. Support through the PayPal and Patreon links at the top of the README is always appreciated. Happy language learning!
+Checkout our [contributing guidelines here](https://github.com/KoelLabs/.github/blob/main/CONTRIBUTING.md). You are welcome to get involved with suggestions/feedback through issues on our public repos. Support through the PayPal and Patreon links at the top of the README is always appreciated (this goes towards our data collection and model training efforts and supports us financially). Happy language learning!
