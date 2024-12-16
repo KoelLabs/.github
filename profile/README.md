@@ -63,11 +63,9 @@ _**Shipping with ❤️ from Seattle, Washington.**_
 Ethical considerations when teaching language at scale include not pushing one “standard” dialect (e.g., the White-American pronunciation), thus perpetuating particular expectations of how words should be pronounced. We hope to address this by offering a wide variety of movies/shows with different dialects for learners to choose from (and by leveraging audio models with diverse dialect support).
 
 ## Open Source Licensing
-Application code and prompts will be open-sourced under the [FSL-1.1-Apache-2.0](https://fsl.software/)
+Frontend application code is open-sourced under the [FSL-1.1-Apache-2.0](https://fsl.software/)
 
-Model weights will be open-sourced under the [CreativeML Open RAIL-M](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
-
-Training code will be open-sourced under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+Model weights, training code, cleaned datasets, etc. are open-sourced under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html). The exceptions are a few models and Huggingface spaces released during the builders program under the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/).
 
 ### A Mozilla Builders Project
 We are excited to have participated in the [2024 cohort](https://future.mozilla.org/builders/2024_cohort/) of the Mozilla Builders Accelerator.
