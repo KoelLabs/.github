@@ -55,7 +55,7 @@ It is sufficiently differentiated from existing solutions yet exists within a pr
 ## The Team
 - [Alexander Metzger](https://sandergi.com/) (he/him/his) — Founder and CEO — experienced with fine-tuning/training ASR/TTS models, MLOps, full-stack development, startups, and open source.
 - [Aruna Srivastava](https://www.linkedin.com/in/arunasr) (she/her) - Co-Founder and Machine Learning Scientist - experienced with NLP, MLOps, Deep learning, and Linguistics.
-- [Ruslan Mukhamedvaleev](https://github.com/digitalRM) (he/them) - Co-Founder and Full-Stack Software Developer - experienced with full-stack development (React, NextJS, VueJS), UI/UX design, and branding.
+- [Ruslan Mukhamedvaleev](https://www.ruslan.in) (he/him) - Co-Founder and Full-Stack Software Developer - experienced with full-stack development (React, NextJS, VueJS), UI/UX design, and branding.
 
 _**Shipping with ❤️ from Seattle, Washington.**_
 
