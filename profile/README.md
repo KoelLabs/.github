@@ -5,7 +5,7 @@
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 # Koel Labs
-Koel Labs innovates tools to provide real-time feedback and improve your pronunciation.
+The open-source community project to make speech technologies better for all. Koel Labs innovates open-source speech research, inclusive speech technologies, and real-time pronunciation feedback for language learners! 
 
 Checkout the [project proposal](https://docs.google.com/document/d/1-CiYRXL2UK_jAynByqgqHhKYLmjmNsg8y_VNUHJCUFU/edit) for details.
 
