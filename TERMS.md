@@ -7,6 +7,12 @@ Hello! You should read these Terms in full because they will apply whenever you 
 
 IF YOU DO NOT ACCEPT AND AGREE TO THE TERMS THEN YOU MUST NOT INTERACT WITH OUR STUFF AND THERE IS NO CONTRACT BETWEEN YOU AND KOEL LABS.
 
+## Product-Specific Terms
+
+Some Koel Labs products and services have their own terms. Slay Speech is governed by the [Slay Speech Terms of Service](SLAY_SPEECH_TERMS.md).
+
+If you use Slay Speech, the Slay Speech Terms of Service apply to your use of Slay Speech. If there is a conflict between these general Koel Labs Terms and the Slay Speech Terms of Service, the Slay Speech Terms of Service control for Slay Speech.
+
 ## Content
 We want to hear your views and welcome comments, GitHub issues/pull requests, and other contributions. We believe in freedom of expression but you should not post any content which:
 
@@ -24,9 +30,11 @@ Please use your common sense when interacting with our Stuff and follow our [Cod
 Opinions and other statements expressed by third parties are theirs alone, not opinions of Koel Labs. Content created by third parties is the sole responsibility of the third parties and its accuracy and completeness are not endorsed or guaranteed. Our Stuff and third parties may provide links to web pages, web sites, and various resources or locations on the web. Koel Labs has no control over the information you access via such links, does not endorse that information, and shall not be responsible for it or for the consequences of your use of that information.
 
 ## Ownership of Content
-Any content that you post belongs to you (provided you are the rightful owner in the first place — please see our other rules above regarding posting content that doesn’t belong to you).
+Any content that you post to Koel Labs public websites, repositories, profiles, forums, issue trackers, pull requests, comments, or other public community spaces belongs to you, provided you are the rightful owner in the first place.
 
-Please note though that by posting or sending content you represent and warrant to us that you have the right to do so and are the exclusive author and owner of that content, and automatically grant to us a non-exclusive, royalty free, perpetual, worldwide licence to use such content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such content, whether in whole or in part and in any format or medium currently known or developed in the future).
+This section does not apply to private speech recordings, speech metadata, in-app feedback, screenshots, or other content submitted through Slay Speech. Those materials are governed by the [Slay Speech Terms of Service](SLAY_SPEECH_TERMS.md) and [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md).
+
+Please note though that by posting or sending content to Koel Labs public websites, repositories, profiles, forums, issue trackers, pull requests, comments, or other public community spaces, you represent and warrant to us that you have the right to do so and are the exclusive author and owner of that content, and automatically grant to us a non-exclusive, royalty free, perpetual, worldwide licence to use such content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such content, whether in whole or in part and in any format or medium currently known or developed in the future).
 
 All other text, graphics, user interfaces, trademarks, logos, sounds and artwork within our Stuff is owned, controlled or licensed by Koel Labs and is protected by copyright, trademark and other intellectual property law rights.
 
@@ -69,7 +77,10 @@ If we are sued as a result of your use of our Stuff then we have the right to de
 You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitor’s fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of our Stuff, the uploading or submission of content to our Stuff by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (**“Claim”**). Koel Labs retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
 
 ## Technical Contact
-If you have any technical issues interacting with our Stuff please contact: [info@koellabs.com](mailto:info@koellabs.com).
+
+If you have technical issues interacting with our Stuff, please contact: [info@koellabs.com](mailto:info@koellabs.com).
+
+For privacy requests related to Slay Speech, please contact: [privacy@slayspeech.com](mailto:privacy@slayspeech.com).
 
 ## Attribution
 These Terms were adapted from [Badoo](https://github.com/badoo/techblog).

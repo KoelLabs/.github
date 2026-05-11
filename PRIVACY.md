@@ -7,12 +7,20 @@ Hello! You should read this Privacy Policy in full because it will tell you exac
 
 IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT PROVIDE YOUR PERSONAL INFORMATION NOR INTERACT WITH OUR STUFF AND THERE IS NO CONTRACT BETWEEN YOU AND KOEL LABS.
 
+## Product-Specific Privacy Notices
+
+Some Koel Labs products and services have their own privacy notices. Slay Speech is governed by the [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md).
+
+If you use Slay Speech, the Slay Speech Privacy Policy explains how Koel Labs collects, uses, stores, shares, and protects information related to the Slay Speech app, including speech recordings, speech-analysis data, learning profile information, optional model-improvement choices, and optional speech-research sharing.
+
+If there is a conflict between this general Koel Labs Privacy Policy and the Slay Speech Privacy Policy, the Slay Speech Privacy Policy controls for Slay Speech.
+
 ## Information We Collect
 If you subscribe to our email notifications such as our mailinglist or waitlist, we will collect your email address. We may also collect your name and other personal details you provide to us. These will only be used to send you updates about our Stuff.
 
 If you create an account with us, we may collect your email address, name, language background, profile picture, and other personal details you provide to us. These will only be used to provide you with access to our Stuff and adapt our Stuff to your needs.
 
-We may also collect anonymous information about your use of our Stuff, such as the pages you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data. This could include audio recordings from practice sections if you opt-in to share those. This information is used to improve our Stuff and provide you with a better experience.
+We may collect usage, diagnostic, and technical information about your interaction with our Stuff. Some of this information may be anonymous, aggregated, or de-identified. Other information may be personal information depending on the context, such as unique identifiers, device information, or account-related activity. For Slay Speech, speech recordings and related speech data are handled under the [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md), not this general Privacy Policy.
 
 ## Data Storage
 By providing your email address, name, and/or creating an account, you agree and acknowledge that you are providing your personal details to Koel Labs.
@@ -39,8 +47,11 @@ Your email address will be removed within 30 days.
 ## Termination
 We may terminate or suspend your account and bar access to our Stuff immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms. If you wish to terminate your account, you may simply discontinue using our Stuff. You may also contact us to request the deactivation of your account.
 
-## Technical Contact
-If you have any technical issues viewing our site please contact: [info@koellabs.com](mailto:info@koellabs.com).
+## Contact
+
+For privacy questions or requests related to Slay Speech, please contact: [privacy@slayspeech.com](mailto:privacy@slayspeech.com).
+
+For technical issues viewing Koel Labs sites or interacting with other Koel Labs Stuff, please contact: [info@koellabs.com](mailto:info@koellabs.com).
 
 ## Attribution
 This Policy was adapted from [Badoo](https://github.com/badoo/techblog).
