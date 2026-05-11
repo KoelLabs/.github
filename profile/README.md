@@ -1,11 +1,11 @@
-<img width="100%" alt="KoelLabsLogoLong" src="https://github.com/user-attachments/assets/b8232261-eb8f-40a8-a33e-630eca206c9f">
+<img width="100%" alt="Koel Lab's Logomark" src="https://github.com/user-attachments/assets/0e7cf381-3c44-402e-a58d-4af419037a1e" />
 
 [![Mozilla Builders](https://img.shields.io/badge/Mozilla-000000.svg?style=for-the-badge&logo=Mozilla&logoColor=white)](https://future.mozilla.org/builders/)
 ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 # Koel Labs
-Koel Labs innovates tools to provide real-time feedback and improve your pronunciation.
+The open-source community project to make speech technologies better for all. Koel Labs innovates open-source speech research, inclusive speech technologies, and real-time pronunciation feedback for language learners! 
 
 Checkout the [project proposal](https://docs.google.com/document/d/1-CiYRXL2UK_jAynByqgqHhKYLmjmNsg8y_VNUHJCUFU/edit) for details.
 
