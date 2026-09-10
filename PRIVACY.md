@@ -1,57 +1,41 @@
 # Koel Labs Privacy Policy
 
-This Privacy Policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with Washington State law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
+**Effective date: September 10, 2026.**
 
-## The Summary
-Hello! You should read this Privacy Policy in full because it will tell you exactly how your personal data is being looked after by Koel Labs whenever you interact with our **Stuff** by visiting the Koel Labs website/blog, accessing any of our public profiles (GitHub, LinkedIn, etc.), or running our code/models!
+This policy covers Koel Labs LLC's general websites, mailing lists, and public community spaces. **Slay Speech and Koel Companion have their own [Privacy Policy](PRIVACY_SLAY_SPEECH.md)**, which controls for accounts, speech, analytics, and other information processed through those products.
 
-IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT PROVIDE YOUR PERSONAL INFORMATION NOR INTERACT WITH OUR STUFF AND THERE IS NO CONTRACT BETWEEN YOU AND KOEL LABS.
+## What we collect and why
 
-## Product-Specific Privacy Notices
+When you contact us or join a mailing list, we receive the contact information and messages you provide. We use them to respond or send the updates you request. We may also keep a limited record of your subscription or unsubscribe choice.
 
-Some Koel Labs products and services have their own privacy notices. Slay Speech is governed by the [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md).
+When you visit a site we operate, hosting and security services may receive your IP address, browser/device information, requested pages, and request times. We use that information to deliver the site and investigate failures or abuse.
 
-If you use Slay Speech, the Slay Speech Privacy Policy explains how Koel Labs collects, uses, stores, shares, and protects information related to the Slay Speech app, including speech recordings, speech-analysis data, learning profile information, optional model-improvement choices, and optional speech-research sharing.
+If you contribute to a public repository, forum, or social profile, your chosen username, contribution, and other information you post may be public. Do not post private recordings, credentials, or personal information you are not authorized to disclose. Public posts may be copied into repository history, forks, archives, or search engines that we cannot control.
 
-If there is a conflict between this general Koel Labs Privacy Policy and the Slay Speech Privacy Policy, the Slay Speech Privacy Policy controls for Slay Speech.
+Downloading or running an open-source model does not by itself mean that Koel Labs receives its inputs. The software's documentation and configuration explain any network processing. Data you send to a Koel-hosted service is subject to that service's notice.
 
-## Information We Collect
-If you subscribe to our email notifications such as our mailinglist or waitlist, we will collect your email address. We may also collect your name and other personal details you provide to us. These will only be used to send you updates about our Stuff.
+## Providers and sharing
 
-If you create an account with us, we may collect your email address, name, language background, profile picture, and other personal details you provide to us. These will only be used to provide you with access to our Stuff and adapt our Stuff to your needs.
+Hosting, email, and support providers help us operate our sites and communicate with you. They may process necessary information for those purposes. GitHub, LinkedIn, Hugging Face, and other platforms also process your interactions under their own policies: [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), [LinkedIn](https://www.linkedin.com/legal/privacy-policy), and [Hugging Face](https://huggingface.co/privacy).
 
-We may collect usage, diagnostic, and technical information about your interaction with our Stuff. Some of this information may be anonymous, aggregated, or de-identified. Other information may be personal information depending on the context, such as unique identifiers, device information, or account-related activity. For Slay Speech, speech recordings and related speech data are handled under the [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md), not this general Privacy Policy.
+We do not sell personal information or share it for cross-context behavioral advertising. We may disclose necessary information for valid legal requirements, security, protecting rights, professional advice, or a business transfer subject to applicable protections. We assess requests rather than agreeing to disclose data to everyone who asks.
 
-## Data Storage
-By providing your email address, name, and/or creating an account, you agree and acknowledge that you are providing your personal details to Koel Labs.
+## Retention, rights, and international processing
 
-By interacting with our Stuff, you agree and acknowledge that anonymous information about your use of our Stuff may be collected.
+We keep contact information while needed for the conversation or requested subscription; unsubscribe records may remain to respect your choice. Public contribution history may remain for project integrity and licensing. Logs are kept only as needed for operation, security, and applicable legal duties. Lawful retention exceptions and limited backup lifetimes can apply to deletion requests.
 
-Our Stuff operates through servers located in a number of countries around the world, including the United States.
+Use an email's unsubscribe link or contact us to stop marketing updates. You can also ask to access, correct, export, or delete your information, object to processing, withdraw consent, or exercise other rights available where you live. We verify requests when needed and respond within applicable deadlines. You may complain to the relevant regulator. We do not penalize you for exercising privacy rights.
 
-If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
+Where data-protection law requires a legal basis, we use consent for requested marketing where required, legitimate interests in operating and securing our sites and responding to inquiries, and applicable legal obligations. 
 
-## Disclosure of Information
-We promise we will never sell or rent your personal details to any third party!
+We use reasonable safeguards, but cannot guarantee absolute security or remove copies of public information from every independent recipient. Our general services are not directed to children under 13. Contact us if a child has provided information unlawfully so we can address it.
 
-Koel Labs wishes to maintain a healthy community, and we will cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We may also disclose your personal information to government or law enforcement agencies, or private parties, as required by law when/or, in our sole discretion, we believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us.
+## Contact and changes
 
-## Third Party Platforms
-We serve our code, models and discussions through various platforms such as [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), [LinkedIn](https://www.linkedin.com/legal/privacy-policy), and [Hugging Face](https://huggingface.co/privacy). To post comments, issues, pull requests, etc., you will need to sign in or create an account with these platforms. By doing so, you agree and acknowledge you are providing your personal details to these platforms. Their policies on personal data will apply. **If you do not agree to these privacy policies do not post on these platforms.**
+Koel Labs LLC is responsible for the processing described here. Contact [privacy@slayspeech.com](mailto:privacy@slayspeech.com) for privacy requests or [info@koellabs.com](mailto:info@koellabs.com) for support.
 
-## Unsubscribing
-If you no longer wish to receive updates, you can unsubscribe by clicking the unsubscribe button at the bottom of our emails. Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSecAMrMJlc46hcMht-Zf05ldxoRZEsOudElO7DWr9Y5BCi2iA/viewform?usp=sf_link), or contact our technical support team.
+Koel Labs LLC\
+8228 NE 198th St.\
+Kenmore, WA 98028, United States
 
-Your email address will be removed within 30 days.
-
-## Termination
-We may terminate or suspend your account and bar access to our Stuff immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms. If you wish to terminate your account, you may simply discontinue using our Stuff. You may also contact us to request the deactivation of your account.
-
-## Contact
-
-For privacy questions or requests related to Slay Speech, please contact: [privacy@slayspeech.com](mailto:privacy@slayspeech.com).
-
-For technical issues viewing Koel Labs sites or interacting with other Koel Labs Stuff, please contact: [info@koellabs.com](mailto:info@koellabs.com).
-
-## Attribution
-This Policy was adapted from [Badoo](https://github.com/badoo/techblog).
+We will date updates, provide notice of material changes as appropriate, and obtain consent for new processing when required.

@@ -1,86 +1,43 @@
 # Koel Labs Terms and Conditions
 
-These Terms and Conditions of Use (**Terms**) and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with Washington State law. In the event there is a discrepancy between this English language version and any translated copies of the Terms, the English version shall prevail.
+**Effective date: September 10, 2026.**
 
-## The Summary
-Hello! You should read these Terms in full because they will apply whenever you interact with our **Stuff** by visiting the Koel Labs website/blog, accessing any of our public profiles (GitHub, LinkedIn, etc.), or running our code/models!
+These Terms govern use of Koel Labs LLC's general websites and community spaces. **Slay Speech and Koel Companion are governed by the [Slay Speech Terms](TERMS_SLAY_SPEECH.md)**. Public code, models, and datasets are governed by their accompanying licenses; these Terms do not override those licenses.
 
-IF YOU DO NOT ACCEPT AND AGREE TO THE TERMS THEN YOU MUST NOT INTERACT WITH OUR STUFF AND THERE IS NO CONTRACT BETWEEN YOU AND KOEL LABS.
+By using our sites after having an opportunity to review these Terms, you agree to them. Our [Privacy Policy](PRIVACY.md) explains how we handle information.
 
-## Product-Specific Terms
+## Be a constructive participant
 
-Some Koel Labs products and services have their own terms. Slay Speech is governed by the [Slay Speech Terms of Service](SLAY_SPEECH_TERMS.md).
+Follow our [Code of Conduct](CONTRIBUTING.md#code-of-conduct). Do not threaten or harass people, post unlawful or infringing material, disclose private information without authority, send spam or malware, impersonate someone, or interfere with our systems. We may moderate content or restrict access when reasonably necessary to protect the community, enforce these rules, or comply with law. Contact us if you believe a moderation decision is mistaken.
 
-If you use Slay Speech, the Slay Speech Terms of Service apply to your use of Slay Speech. If there is a conflict between these general Koel Labs Terms and the Slay Speech Terms of Service, the Slay Speech Terms of Service control for Slay Speech.
+Third-party posts are their authors' views, not necessarily ours. External links do not imply endorsement. Platforms such as GitHub apply their own terms to your use of their services.
 
-## Content
-We want to hear your views and welcome comments, GitHub issues/pull requests, and other contributions. We believe in freedom of expression but you should not post any content which:
+## Your contributions
 
-  * contains expletives or language which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
-  * is obscene, pornographic or otherwise may offend human dignity;
-  * is abusive, insulting or threatening, or which promotes or encourages racism, sexism, hatred or bigotry;
-  * encourages any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offence;
-  * is defamatory;
-  * relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-  * involves the transmission of “junk” mail or “spam”;
-  * contains any spy ware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Koel Labs or otherwise; or
-  * itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights).
+You retain the rights you have in your posts and contributions. You must have authority to submit them; licensed material does not have to be exclusively yours. By posting publicly, you grant us a nonexclusive, worldwide, royalty-free permission to host, reproduce, display, format, and distribute the contribution as needed to operate and preserve that public project or discussion. Code contributions follow the applicable repository license and any contribution agreement disclosed for that project.
 
-Please use your common sense when interacting with our Stuff and follow our [Code of Conduct](/CONTRIBUTING.md#code-of-conduct), because you are solely responsible for, and bear all liability in relation to, your postings! Koel Labs has no obligation to monitor the content of our Stuff. However, Koel Labs reserves the right to review content posted to our Stuff and to remove any content at any time, without notice, for any reason and in its sole discretion.
-Opinions and other statements expressed by third parties are theirs alone, not opinions of Koel Labs. Content created by third parties is the sole responsibility of the third parties and its accuracy and completeness are not endorsed or guaranteed. Our Stuff and third parties may provide links to web pages, web sites, and various resources or locations on the web. Koel Labs has no control over the information you access via such links, does not endorse that information, and shall not be responsible for it or for the consequences of your use of that information.
+Public history, forks, and lawful copies may remain after you remove a post. Product suggestions may be used without payment unless we separately agree otherwise; accompanying personal information remains subject to the applicable privacy policy.
 
-## Ownership of Content
-Any content that you post to Koel Labs public websites, repositories, profiles, forums, issue trackers, pull requests, comments, or other public community spaces belongs to you, provided you are the rightful owner in the first place.
+## Our materials
 
-This section does not apply to private speech recordings, speech metadata, in-app feedback, screenshots, or other content submitted through Slay Speech. Those materials are governed by the [Slay Speech Terms of Service](SLAY_SPEECH_TERMS.md) and [Slay Speech Privacy Policy](SLAY_SPEECH_PRIVACY.md).
+Our website designs, branding, and original materials belong to us or our licensors. You may link to them and share our public posts for noncommercial purposes with attribution, subject to any license attached to the material. Other reproduction or commercial reuse requires permission unless allowed by law or an applicable open license. No trademark license or endorsement is implied.
 
-Please note though that by posting or sending content to Koel Labs public websites, repositories, profiles, forums, issue trackers, pull requests, comments, or other public community spaces, you represent and warrant to us that you have the right to do so and are the exclusive author and owner of that content, and automatically grant to us a non-exclusive, royalty free, perpetual, worldwide licence to use such content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such content, whether in whole or in part and in any format or medium currently known or developed in the future).
+General educational materials may be incomplete or outdated and are not professional advice. We may update or retire pages and features. Material paid-service obligations, if any, are governed by the relevant product agreement and consumer law.
 
-All other text, graphics, user interfaces, trademarks, logos, sounds and artwork within our Stuff is owned, controlled or licensed by Koel Labs and is protected by copyright, trademark and other intellectual property law rights.
+## Responsibility and disputes
 
-## Distribution
-All of our public guides, blog posts, LinkedIn posts, and other social media announcements are written by Koel Labs (**Posts**) but we are always looking to share our pearls of wisdom with others! To that end, Koel Labs grants you a non-exclusive, revocable licence to share the Posts for non-commercial purposes on any social media platform or website. You must ensure you always credit Koel Labs as the author. If you wish to use any Post for commercial use, you must obtain Koel Labs' prior written consent. Koel Lab may revoke authorization to share the Posts at any time.
+To the extent permitted by law, these general sites and materials are provided “as is” and “as available,” without additional warranties of accuracy, availability, merchantability, fitness, or noninfringement. We are not liable for indirect or consequential losses to the extent the law permits exclusion. Our aggregate liability arising from these general sites is limited to the greater of USD $100 or the amount you paid us for the affected general-site service in the previous 12 months.
 
-## Email alerts
-You may sign up for various email notifications from us such as our waitinglist and mailing list. These may ask for your email and name. Please see our [Privacy Policy](PRIVACY.md) for more information on how we collect and use your data.
+Nothing here excludes liability or remedies that cannot lawfully be excluded, including applicable consumer and privacy rights or liability for fraud, willful misconduct, gross negligence, or personal injury where protected by law. Open-source licenses supply their own warranty and liability terms for their components.
 
-## Unsubscribing
-If you no longer wish to receive updates, you can unsubscribe by clicking the unsubscribe button at the bottom of our emails. Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSecAMrMJlc46hcMht-Zf05ldxoRZEsOudElO7DWr9Y5BCi2iA/viewform?usp=sf_link), or contact our technical support team.
+Washington State law applies subject to mandatory protections where you live. Subject to those protections, disputes may be brought in the state or federal courts with jurisdiction in King County, Washington. You retain any mandatory right to use your local courts. There is no mandatory arbitration or class-action waiver in these Terms.
 
-Your email address will be removed within 30 days.
+If part of these Terms is unenforceable, the rest remains effective where lawful.
 
-## Signin/Signup
-You may create an account with us either through a third party identity provider (e.g. Google) or by creating a username and password. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You agree to accept responsibility for all activities that occur under your account or password. You should take all necessary steps to ensure that the password is kept confidential and secure and should inform us immediately if you have any reason to believe that your password has become known to anyone else, or if the password is being, or is likely to be, used in an unauthorized manner.
+## Contact
 
-Please see our [Privacy Policy](PRIVACY.md) for information on how we collect and use your data associated with your account.
+[info@koellabs.com](mailto:info@koellabs.com) for general questions and [privacy@slayspeech.com](mailto:privacy@slayspeech.com) for privacy requests.
 
-## Termination
-We may terminate or suspend your account and bar access to our Stuff immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms. If you wish to terminate your account, you may simply discontinue using our Stuff. You may also contact us to request the deactivation of your account.
-
-## Limitation of liability
-You expressly agree that the use of our Stuff is at your sole risk. Our Stuff is provided on an "as is" basis and Koel Labs makes no warranties, expressed or implied, and disclaims any implied warranties of merchantability, fitness for a particular purpose and non-infringement. Koel Labs disclaims any warranty that our Stuff will be uninterrupted, secure or error free.
-
-Koel Labs and its directors, officers, employees, consultants, agents and other representatives shall not be liable under any circumstances including without limitation for any claims, charges, demands, damages, liabilities, losses or expenses of whatever nature and howsoever direct, indirect, incidental, special, exemplary, punitive or consequential damages (however arising including negligence), loss of use, loss of data, loss caused by a computer or electronic virus, loss of income or profit, loss of or damage to property, wasted management or office time, breach of contract or claims of third parties or other losses of any kind or character, even if Koel Labs has been advised of the possibility of such damages or losses, arising out of or in connection with the use of our Stuff. 
-
-Koel Labs assumes no responsibility or liability arising from the content of our Stuff nor for any error, defamation, libel, slander, omission, falsehood, obscenity, pornography, profanity, danger or inaccuracy contained in any information within our Stuff or accessed through our Stuff.
-
-Nothing in the Terms limits or excludes Koel Labs' liability for:
-
-  * death or personal injury caused by their proven negligence; or
-  * any liability which cannot be limited or excluded by law.
-
-Koel Labs does not have a duty to update information contained in our Stuff, and we will not be liable for any failure to update such information.
-
-## Indemnity
-If we are sued as a result of your use of our Stuff then we have the right to defend or settle the relevant claim as we see fit. If we ask, you will co-operate fully and reasonably as required by us in the defence of any relevant claim.
-
-You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitor’s fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of our Stuff, the uploading or submission of content to our Stuff by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (**“Claim”**). Koel Labs retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
-
-## Technical Contact
-
-If you have technical issues interacting with our Stuff, please contact: [info@koellabs.com](mailto:info@koellabs.com).
-
-For privacy requests related to Slay Speech, please contact: [privacy@slayspeech.com](mailto:privacy@slayspeech.com).
-
-## Attribution
-These Terms were adapted from [Badoo](https://github.com/badoo/techblog).
+Koel Labs LLC\
+8228 NE 198th St.\
+Kenmore, WA 98028, United States

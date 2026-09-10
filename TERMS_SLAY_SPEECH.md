@@ -1,238 +1,129 @@
 # Slay Speech Terms of Service
 
-**Effective Date:** May 11, 2026
+**Effective date: September 10, 2026.**
 
-These Slay Speech Terms of Service (the **Terms**) govern your access to and use of Slay Speech, including the Slay Speech mobile application, related websites, services, speech-analysis features, lessons, videos, exercises, and other content or services that link to these Terms (collectively, **Slay Speech** or the **Service**).
+Welcome to Slay Speech. These Terms explain what you can expect from us and what we ask of you. They cover the Slay Speech app, **Koel Companion**, the **Daily Speaking Inbox**, and related services that link here (the **Service**). Your agreement is with **Koel Labs LLC** ("Koel Labs," "we," or "us").
 
-Slay Speech is provided by **Koel Labs LLC** (**Koel Labs**, **we**, **us**, or **our**).
+By accepting these Terms or using the Service after being given an opportunity to review them, you agree to them. If you do not agree, do not use the Service. Our [Privacy Policy](PRIVACY_SLAY_SPEECH.md) explains data handling; accepting these Terms is not consent to optional research, model training, or any other processing that requires a separate choice. These Terms take precedence over our [general terms](TERMS.md) for the Service.
 
-Please read these Terms carefully. By tapping **Get Started**, downloading, accessing, or using Slay Speech, you agree to these Terms. If you do not agree, do not use Slay Speech.
+## 1. Who can use Slay Speech
 
-These Terms are separate from the general Koel Labs Terms that apply to other Koel Labs websites, code, models, public profiles, and community resources. If there is a conflict between these Terms and the general Koel Labs Terms, these Terms control for Slay Speech.
+You must be at least 13 and meet any higher minimum age required where you live. If you are a minor, a parent or legal guardian must authorize your use and agree to these Terms on your behalf where required. Do not bypass an age or consent requirement.
 
-## 1. Eligibility
+If you accept these Terms for an organization, you must have authority to bind it. An individual subscription does not give an employer permission to monitor staff or enroll other people's voices.
 
-Slay Speech is for users age 13 and older.
+## 2. Accounts and paired computers
 
-You may not use Slay Speech if you are under 13 years old. If you are a legal minor where you live, you may use Slay Speech only with permission from a parent or legal guardian. By using Slay Speech, you represent that you meet these eligibility requirements.
+Some features require an account, and others require Premium. Use accurate account information and keep control of your sign-in account and devices. We support the sign-in methods shown in the app; we do not need your Apple or Google password.
 
-If you use Slay Speech on behalf of another person or organization, you represent that you have authority to accept these Terms on their behalf.
+Keep login codes, session credentials, and companion pairing codes private. A person who uses your pairing code can link a computer to your account. Only pair computers you control or are authorized to use, review paired devices, and disconnect unfamiliar ones. Tell us promptly if you suspect unauthorized access. You are responsible for activity you authorize, but these Terms do not make you automatically liable for activity caused by our security failures or matters the law assigns to us.
 
-## 2. What Slay Speech Does
+Signing out, disconnecting a computer, deleting an account, and uninstalling have different effects. Signing out does not delete cloud history. A disconnected or offline computer can still contain local files until they are removed. Account deletion does not cancel a subscription purchased through an app store.
 
-Slay Speech helps users practice spoken English. The Service may let you:
+## 3. Educational use and AI limitations
 
-- watch lessons, videos, and explanations;
-- listen to example speech;
-- record practice speech;
-- receive pronunciation or speaking feedback;
-- browse practice content;
-- track progress locally on your device;
-- submit support or product feedback; and
-- choose whether your speech data may be used for model improvement or shared with approved research partners.
+The Service provides lessons, games, pronunciation feedback, practice conversations, progress tracking, and personalized written or audio lessons. You may use it for your own learning, including improving how you communicate at work.
 
-Slay Speech provides educational feedback. It does not guarantee any particular pronunciation, fluency, test score, academic result, job result, immigration result, medical result, or other outcome.
+Our feedback and generated content can be wrong, incomplete, repetitive, or unsuitable. AI may misunderstand words, misattribute speakers, invent details, or misrepresent a conversation. A practice scenario is a simulation, not a statement from a real participant. Synthetic audio is computer-generated speech. Review material before relying on it or sharing it.
 
-## 3. Privacy and Speech Data Choices
+The Service does not certify fluency or guarantee a score, job, admission, immigration decision, or other result. It is not medical treatment, speech-language pathology, or legal or other professional advice. Do not use its scores or voice matching to make employment, eligibility, identity, or other consequential decisions about someone.
 
-Your use of Slay Speech is also governed by the **Slay Speech Privacy Policy**, which explains what information we collect, how we use it, how long we keep it, when we share it, and how you can exercise privacy rights.
+## 4. Daily speech capture: permission comes first
 
-Slay Speech may send your practice speech to Koel Labs servers so we can analyze it and return pronunciation feedback. Unless you choose otherwise in the app, we do not store your practice recordings to train models or share them with researchers.
+**Do not secretly record people.** Before recording, importing, or sharing a conversation, you must have the rights and permissions needed to capture it, process it locally, upload relevant audio and text, and use cloud speech/AI services. Get permission from everyone who may be picked up, including background participants, before using capture in that setting. Follow applicable recording laws, workplace rules, confidentiality duties, and the source app's rules. An employer's permission does not necessarily replace a participant's consent, or vice versa.
 
-Slay Speech gives you separate optional choices, both off by default:
+The companion can automatically start capture for apps you enable. An enabled browser or application may be used for many different conversations. Check capture status, stop when consent or circumstances change, and do not assume a tray icon is visible to other participants or gives them notice.
 
-1. **Help improve Slay Speech** — allows Koel Labs to store and use your practice recordings and speech metadata to train and evaluate speech models.
-2. **Contribute to speech research** — allows Koel Labs to share your speech data with approved research partners under research data-use agreements.
+Voice setup and filtering try to isolate your speech; they are not a guarantee. Other speakers' audio can be processed locally and their words can be sent as text context even when their recordings are discarded. The system can mistakenly upload other voices. Avoid confidential or sensitive material you are not authorized to share. Do not enroll another person's voice profile or use capture for surveillance or impersonation.
 
-You can change these choices in the app settings. Changing a choice affects future collection and use for that optional purpose. You may also request access to, export of, or deletion of cloud speech data as described in the Slay Speech Privacy Policy.
+Importing a file does not give you ownership of it. Only import material you are entitled to use. A phone-call or meeting activity option does not mean every app, device, or platform permits recording or supports capture.
 
-## 4. Your License to Use Slay Speech
+## 5. Premium, purchases, and usage limits
 
-Subject to these Terms, Koel Labs grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install, access, and use Slay Speech for your own personal, non-commercial English-practice purposes.
+The offer or checkout screen specifies which features are included, the price, billing period, any trial, and whether renewal is automatic. If a purchase option is not offered, these payment provisions do not create a charge. Premium may also be supplied through a promotion or grant with its own disclosed duration.
 
-You may use Slay Speech only as permitted by these Terms, applicable law, and any applicable app-store rules.
+For an auto-renewing subscription, the relevant billing provider charges the disclosed price each billing period until you cancel through that provider before its renewal deadline. A trial may convert to a paid subscription only on the terms disclosed when you enroll. Manage app-store subscriptions in your Apple or Google subscription settings. Canceling ordinarily stops future renewal while access continues through the paid period, subject to the offer and applicable law. Uninstalling or deleting your Slay Speech account does not stop store billing.
 
-## 5. Koel Labs Content and Intellectual Property
+Refunds, withdrawal rights, and remedies follow applicable law and the relevant purchase channel's rules. Contact the billing provider or us for help; nothing here removes a mandatory refund or consumer right. We will give required notice of price changes and obtain agreement where required. Changes do not retroactively change charges already incurred.
 
-Slay Speech and its content are owned by Koel Labs or its licensors. This includes, without limitation:
+Features may have quotas, capacity limits, or processing delays. Technical failures or unavailable source content can prevent generation; access is not a promise that every recording produces useful material.
 
-- lessons;
-- videos;
-- audio examples;
-- diagrams;
-- explanations;
-- exercises;
-- practice prompts;
-- user interface designs;
-- software;
-- speech-analysis models;
-- feedback systems;
-- text;
-- graphics;
-- logos;
-- trademarks;
-- data compilations; and
-- other materials made available through Slay Speech.
+We may adjust limits and preview features with appropriate notice, subject to paid commitments and legal rights. We will not use these Terms to avoid remedies owed for a material loss of a paid service.
 
-Except for the limited license above, these Terms do not transfer any ownership rights to you.
+## 6. Your content and our permission to process it
 
-You may not copy, record, download, scrape, reproduce, distribute, publicly display, publicly perform, modify, translate, sell, license, or create derivative works from Slay Speech content except as expressly allowed by Koel Labs in writing or by applicable law.
+**Your Content** includes recordings, imported material, transcripts, typed messages, conversation context, and support submissions you provide. You keep any rights you have in it. You must have authority to provide it and grant the permissions below; you do not need to be its exclusive owner if you have an adequate license or permission.
 
-## 6. Your Content
+You give us a limited, worldwide, nonexclusive, royalty-free license to process, transmit, store, reproduce, and display Your Content as necessary to deliver the features you use, create feedback and lessons, maintain and secure the Service, handle support, and comply with law. We may allow our service providers to do those things for us. This license is limited by the Privacy Policy, your applicable choices, retention limits, and law; it is not permission to sell your recordings or publish private conversations.
 
-**Your Content** means speech recordings, feedback notes, screenshots, text, images, or other materials you submit through Slay Speech.
+Optional Koel Labs model improvement and research sharing require the separate choices described in the Privacy Policy. Disabling those choices does not disable processing needed to provide requested features. Provider processing, including any provider-specific training or retention arrangements, is also explained there.
 
-You retain any rights you have in Your Content. You are responsible for Your Content and represent that you have the rights needed to submit it.
+The service-content license ends when the relevant data is deleted, except as necessary for lawful retained copies or uses already completed. There is no perpetual general license to exploit your private recordings. We do not claim ownership of your underlying words through AI generation. Generated outputs may not be unique or eligible for copyright; we cannot promise exclusive ownership or freedom from third-party rights. You may use your personalized feedback and lessons for your own learning and share them using functions we provide, with permission for any other person's information they contain.
 
-You grant Koel Labs a limited, worldwide, non-exclusive, royalty-free license to host, process, transmit, analyze, display, store, and otherwise use Your Content as needed to:
+If you send product suggestions, we may use the ideas without payment or attribution unless we agree otherwise. That permission does not override privacy protections for recordings, screenshots, or personal information accompanying the suggestion.
 
-- provide Slay Speech;
-- generate speech or pronunciation feedback;
-- maintain, debug, and secure the Service;
-- respond to support or feedback requests;
-- comply with law; and
-- enforce these Terms.
+## 7. Our content and acceptable use
 
-If you opt in to **Help improve Slay Speech**, you also authorize Koel Labs to store, analyze, and use applicable speech recordings and speech metadata to train, test, evaluate, and improve Koel Labs speech models.
+We and our licensors retain rights in the software, models, lesson library, recordings, designs, and branding. We grant you a limited, nonexclusive, nontransferable license to use the Service on devices you own or are authorized to use for your personal learning, while you comply with these Terms. Do not resell access or redistribute our lesson library without permission.
 
-If you opt in to **Contribute to speech research**, you also authorize Koel Labs to share applicable speech data with approved research partners under research data-use agreements, as described in the Slay Speech Privacy Policy.
+You must not:
 
-Koel Labs will not publicly release your raw speech recordings unless we obtain a separate, specific consent from you or unless the data has been de-identified such that it is no longer reasonably linked to you.
+- violate the law or another person's privacy, confidentiality, or intellectual-property rights;
+- bypass account, Premium, consent, capture, security, or rate-limit controls;
+- steal credentials, impersonate someone, harass others, or submit malicious software;
+- disrupt the Service, exploit vulnerabilities, or access another person's data;
+- bulk scrape content, automate access outside an authorized integration, or use the Service to train a competing product without written permission; or
+- reverse engineer or copy proprietary components except where the law permits it.
 
-## 7. Do Not Submit Other People’s Voices Without Permission
+These restrictions do not override rights under open-source licenses, legally protected interoperability or research, or permissions we expressly grant. Open-source components and their notices remain subject to their own licenses. Report security concerns privately to [info@koellabs.com](mailto:info@koellabs.com).
 
-You may not submit, upload, record, or transmit another person’s voice, image, screenshot, personal information, or other content unless you have that person’s permission and the legal right to do so.
+## 8. Availability, updates, and third parties
 
-You may not use Slay Speech to secretly record anyone.
+Some features are previews and may change or be removed. Speech capture depends on operating-system permissions, hardware, source applications, connectivity, and provider availability. We do not promise uninterrupted operation or that every device or application is supported.
 
-## 8. User Conduct and Restrictions
+We may provide automatic checks for companion updates and install an available update when you trigger the update action. An update may restart the companion. We may require an update to maintain security or compatibility, subject to applicable notice and consumer rights.
 
-You agree not to:
+Deepgram, Cerebras, Cartesia, hosted PostHog Cloud, RevenueCat for subscription management where purchases are available, sign-in providers, and app stores support the Service. Their involvement does not remove our obligations to you. If you separately use another provider's service or follow an external link, its terms apply to that separate relationship. Mentioning a third-party app does not imply its endorsement of Koel Labs or permission to capture its content.
 
-- use Slay Speech if you are under 13;
-- use Slay Speech in violation of applicable law;
-- access Koel Labs servers except through an authorized, unmodified copy of the app;
-- bypass, disable, or interfere with security, integrity, rate-limit, authentication, or usage controls;
-- probe, scan, test, overload, disrupt, or attack the Service or its infrastructure;
-- use bots, scripts, scrapers, crawlers, or automated tools to access the Service or extract content;
-- reverse engineer, decompile, disassemble, modify, or create derivative works from Slay Speech, except where applicable law prohibits this restriction;
-- copy, record, redistribute, publish, sell, or use Slay Speech lessons, videos, exercises, audio, diagrams, explanations, model outputs, or other content outside the app except as expressly allowed by Koel Labs;
-- use Slay Speech to develop, train, test, benchmark, or improve a competing speech-coaching, pronunciation-feedback, or speech-analysis product or service without Koel Labs’ written permission;
-- use the Service to create, submit, or transmit unlawful, harmful, abusive, harassing, defamatory, obscene, hateful, discriminatory, or infringing content;
-- submit malware, spyware, corrupted files, or malicious code;
-- attempt to identify, contact, harass, or harm another user;
-- misrepresent your identity or affiliation;
-- interfere with another person’s use of Slay Speech; or
-- encourage or help anyone else do any of the above.
+Our use of Cartesia turns text into audio without receiving your microphone recordings or voice profile. It does not offer us zero data retention or regional processing endpoints. Text can still contain personal or confidential information, and regional Deepgram routing does not keep Cartesia or all other Service processing within that region. See the Privacy Policy for the recipients, purposes, and controls that apply.
 
-## 9. Feedback to Koel Labs
+You can control optional reminders and marketing messages. Essential account, security, billing, and legal notices may still be sent where appropriate.
 
-If you send us suggestions, ideas, bug reports, product feedback, or other comments about Slay Speech, you agree that Koel Labs may use them without restriction or compensation to you, unless we separately agree otherwise in writing.
+## 9. Stopping use and suspension
 
-This section does not give Koel Labs ownership of your private speech recordings or override your speech-data choices in the app.
+You can stop using the Service or request account deletion at any time. Manage any paid subscription separately as described above.
 
-## 10. Notifications
+We may restrict or suspend access when reasonably necessary for a serious breach, security risk, fraud, unlawful conduct, or a legal requirement. When practical and lawful, we will explain the reason and give an opportunity to resolve it. Immediate action may be needed to protect people or systems. Contact support if you believe a restriction is a mistake.
 
-Slay Speech may let you enable practice reminders or other notifications. You can turn notifications off in the app settings or through your device settings.
+On termination, your license to access the Service ends. Privacy obligations, lawful payment obligations, intellectual-property provisions, and dispute/liability provisions survive as needed. Private-content permissions survive only to the limited extent described in section 6. Termination does not cancel nonwaivable consumer remedies or privacy rights.
 
-## 11. Beta and Experimental Features
+## 10. Warranties and responsibility
 
-Slay Speech may include beta, experimental, preview, or limited-release features. These features may be changed, suspended, or discontinued at any time. They may be incomplete, inaccurate, or unavailable.
+**Your statutory rights come first.** To the extent permitted by law, the Service is supplied “as is” and “as available,” without additional warranties of accuracy, uninterrupted availability, merchantability, fitness for a particular purpose, or noninfringement. These exclusions do not displace warranties or remedies the law requires us to provide.
 
-## 12. Updates and Availability
+To the extent permitted by law, Koel Labs and its personnel, affiliates, licensors, and service providers are not liable for indirect, incidental, special, consequential, or punitive damages, or lost profits, arising from the Service. Our total aggregate liability arising from the Service or these Terms is limited to the greater of **USD $100** or **the amount you paid for the Service, including through app stores, in the 12 months before the event giving rise to the claim**.
 
-We may modify, update, suspend, or discontinue Slay Speech or any part of it at any time. We may also impose usage limits or restrict access if needed to protect the Service, comply with law, or enforce these Terms.
+These limits do not apply where prohibited by law, including liability for fraud, willful misconduct, gross negligence, or death or personal injury caused by negligence to the extent it cannot lawfully be limited. They do not waive statutory privacy remedies or mandatory consumer rights.
 
-We do not guarantee that Slay Speech will be available, uninterrupted, secure, or error-free.
+To the extent permitted by law, you agree to reimburse us for reasonable third-party claims and costs caused by your unlawful submissions, infringement of others' rights, or material breach of these Terms. This does not cover losses caused by our own breach or misconduct or merely by ordinary authorized use. We will give prompt notice, permit reasonable participation in the defense, and not settle a claim imposing an admission or nonmonetary obligation on you without your consent. This obligation does not apply to consumers where local law prohibits it.
 
-## 13. Third-Party Services and App Stores
+## 11. Disputes and changes
 
-Slay Speech may depend on third-party services, including cloud hosting, app-store distribution, device-integrity services, notification services, analytics or diagnostics services, and other infrastructure providers.
+Washington State law governs these Terms, without overriding mandatory protections where you live. Subject to those protections, disputes may be brought in the state or federal courts with jurisdiction in King County, Washington. Consumers keep any right to use courts in their home jurisdiction. These Terms do not impose mandatory arbitration or a class-action waiver. Please contact us first if a problem can be resolved informally; doing so is not a barrier to urgent relief or exercising legal rights.
 
-Your use of Slay Speech may also be subject to terms from Apple, Google, or other app-store providers. You agree to comply with all applicable third-party terms when using Slay Speech.
+We will give appropriate advance notice of material changes and request acceptance where required. Updates will not retroactively remove accrued rights. If you disagree, you can stop using the Service and exercise applicable cancellation or refund rights.
 
-If you downloaded Slay Speech from the Apple App Store:
+If a provision is unenforceable, the remaining Terms continue to apply where lawful. Failure to enforce a provision is not a waiver. These Terms and any expressly agreed offer terms form the agreement for the Service; separate open-source licenses and mandatory law remain effective. A transfer of our agreement must not reduce your mandatory rights.
 
-- these Terms are between you and Koel Labs, not Apple;
-- Koel Labs, not Apple, is responsible for Slay Speech and its content;
-- Apple has no obligation to provide maintenance or support for Slay Speech;
-- to the extent required by applicable law, Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce these Terms against you;
-- you represent that you are not located in a country subject to a U.S. government embargo or designated as a “terrorist supporting” country and that you are not listed on any U.S. government restricted-party list; and
-- your license to use Slay Speech is limited to use on Apple-branded products that you own or control and as permitted by Apple’s usage rules.
+## 12. Apple App Store terms
 
-## 14. Open-Source Components
+For an Apple-distributed copy, the agreement is with Koel Labs, not Apple. Use is subject to Apple's Usage Rules, including permitted Family Sharing or volume purchasing. Koel Labs handles support and applicable product, consumer, privacy, and intellectual-property claims. Apple has no maintenance duty. If the app fails an applicable warranty, notify Apple for any required purchase-price refund; to the extent permitted by law, Apple has no further warranty duty, and remaining responsibilities are ours. Apple and its subsidiaries are beneficiaries entitled to enforce these Terms. You must comply with applicable third-party agreements and U.S. export restrictions, including prohibited-country and restricted-party rules.
 
-Slay Speech may include open-source software components. Those components are governed by their own licenses. Nothing in these Terms limits your rights under applicable open-source licenses.
+## 13. Contact
 
-## 15. No Professional Advice
+Support and terms: [info@koellabs.com](mailto:info@koellabs.com)\
+Privacy: [privacy@slayspeech.com](mailto:privacy@slayspeech.com)
 
-Slay Speech is an educational practice tool. It does not provide medical, clinical, legal, immigration, academic-admissions, employment, or professional advice.
-
-Speech feedback may be incomplete, inaccurate, delayed, or unsuitable for your circumstances. You are responsible for how you use the feedback.
-
-## 16. Termination
-
-You may stop using Slay Speech at any time.
-
-We may suspend or terminate your access to Slay Speech if we reasonably believe that you have violated these Terms, created risk for Koel Labs or others, used the Service unlawfully, or attempted to interfere with the Service.
-
-Upon termination, your right to use Slay Speech ends immediately. Sections that by their nature should survive termination will survive, including sections on intellectual property, user content licenses already granted, restrictions, disclaimers, limitation of liability, indemnity, governing law, and dispute resolution.
-
-## 17. Disclaimer of Warranties
-
-To the maximum extent permitted by law, Slay Speech is provided “as is” and “as available,” without warranties of any kind, whether express, implied, statutory, or otherwise.
-
-Koel Labs disclaims all warranties, including implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, availability, accuracy, security, and error-free operation.
-
-Some jurisdictions do not allow certain warranty disclaimers, so some of the above may not apply to you.
-
-## 18. Limitation of Liability
-
-To the maximum extent permitted by law, Koel Labs and its directors, officers, employees, contractors, agents, affiliates, licensors, and service providers will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, revenue, data, goodwill, use, or other intangible losses, arising from or related to Slay Speech or these Terms.
-
-To the maximum extent permitted by law, Koel Labs’ total liability for any claim arising from or related to Slay Speech or these Terms will not exceed the greater of:
-
-1. the amount you paid Koel Labs to use Slay Speech in the 12 months before the claim arose; or
-2. USD $100.
-
-Nothing in these Terms limits liability that cannot be limited under applicable law.
-
-## 19. Indemnity
-
-To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless Koel Labs and its directors, officers, employees, contractors, agents, affiliates, licensors, and service providers from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys’ fees, arising from or related to:
-
-- your use of Slay Speech;
-- Your Content;
-- your violation of these Terms;
-- your violation of applicable law;
-- your infringement or misuse of another person’s rights; or
-- your submission of another person’s voice, image, or personal information without permission.
-
-## 20. Governing Law and Venue
-
-These Terms are governed by the laws of the State of Washington, United States, without regard to conflict-of-law principles.
-
-To the extent permitted by law, any dispute arising from or related to these Terms or Slay Speech will be brought in the state or federal courts located in Washington, and you consent to the jurisdiction of those courts.
-
-Nothing in this section limits any consumer protection rights that you cannot waive under the law where you live.
-
-## 21. Changes to These Terms
-
-We may update these Terms from time to time. If we make material changes, we will provide notice as required by law, such as by posting the updated Terms, updating the effective date, or providing an in-app notice.
-
-Your continued use of Slay Speech after updated Terms become effective means you accept the updated Terms. If you do not agree to the updated Terms, stop using Slay Speech.
-
-## 22. Contact
-
-For privacy requests related to Slay Speech, contact:
-
-**privacy@slayspeech.com**
-
-For technical support or general questions, contact:
-
-**info@koellabs.com**
-
-Koel Labs LLC  
-8228 NE 198th St,
-Kenmore, WA 98028  
-United States
+Koel Labs LLC\
+8228 NE 198th St.\
+Kenmore, WA 98028, United States
