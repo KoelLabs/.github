@@ -1,14 +1,14 @@
 # Slay Speech Terms of Service
 
-**Effective date: September 10, 2026.**
+**Effective date: October 19, 2026.**
 
 Welcome to Slay Speech. These Terms explain what you can expect from us and what we ask of you. They cover the Slay Speech app, **Koel Companion**, the **Daily Speaking Inbox**, and related services that link here (the **Service**). Your agreement is with **Koel Labs LLC** ("Koel Labs," "we," or "us").
 
-By accepting these Terms or using the Service after being given an opportunity to review them, you agree to them. If you do not agree, do not use the Service. Our [Privacy Policy](PRIVACY_SLAY_SPEECH.md) explains data handling; accepting these Terms is not consent to optional research, model training, or any other processing that requires a separate choice. These Terms take precedence over our [general terms](TERMS.md) for the Service.
+By accepting these Terms or using the Service after being given an opportunity to review them, you agree to them. If you do not agree, do not use the Service. Our [Privacy Policy](PRIVACY_SLAY_SPEECH.md) explains data handling; accepting these Terms is not consent to optional research, model training, commercial speech-data licensing, or any other processing that requires a separate choice. These Terms take precedence over our [general terms](TERMS.md) for the Service.
 
 ## 1. Who can use Slay Speech
 
-You must be at least 13 and meet any higher minimum age required where you live. If you are a minor, a parent or legal guardian must authorize your use and agree to these Terms on your behalf where required. Do not bypass an age or consent requirement.
+You must be at least 13 and meet any higher minimum age required where you live. If you are a minor, a parent or legal guardian must authorize your use and agree to these Terms on your behalf where required. Optional commercial speech-data contributions are permitted only where applicable law allows them for your age and all required consent or parent/guardian authorization has been obtained. Do not bypass an age or consent requirement.
 
 If you accept these Terms for an organization, you must have authority to bind it. An individual subscription does not give an employer permission to monitor staff or enroll other people's voices.
 
@@ -36,7 +36,7 @@ The companion can automatically start capture for apps you enable. An enabled br
 
 Voice setup and filtering try to isolate your speech; they are not a guarantee. Other speakers' audio can be processed locally and their words can be sent as text context even when their recordings are discarded. The system can mistakenly upload other voices. Avoid confidential or sensitive material you are not authorized to share. Do not enroll another person's voice profile or use capture for surveillance or impersonation.
 
-Importing a file does not give you ownership of it. Only import material you are entitled to use. A phone-call or meeting activity option does not mean every app, device, or platform permits recording or supports capture.
+Importing a file does not give you ownership of it. Only import material you are entitled to use. A phone-call or meeting activity option does not mean every app, device, or platform permits recording or supports capture. Your commercial contribution consent does not authorize commercial licensing of other people's voices, confidential conversations, or data you do not have the necessary rights to provide.
 
 ## 5. Premium, purchases, and usage limits
 
@@ -54,11 +54,15 @@ We may adjust limits and preview features with appropriate notice, subject to pa
 
 **Your Content** includes recordings, imported material, transcripts, typed messages, conversation context, and support submissions you provide. You keep any rights you have in it. You must have authority to provide it and grant the permissions below; you do not need to be its exclusive owner if you have an adequate license or permission.
 
-You give us a limited, worldwide, nonexclusive, royalty-free license to process, transmit, store, reproduce, and display Your Content as necessary to deliver the features you use, create feedback and lessons, maintain and secure the Service, handle support, and comply with law. We may allow our service providers to do those things for us. This license is limited by the Privacy Policy, your applicable choices, retention limits, and law; it is not permission to sell your recordings or publish private conversations.
+You give us a limited, worldwide, nonexclusive, royalty-free license to process, transmit, store, reproduce, and display Your Content as necessary to deliver the features you use, create feedback and lessons, maintain and secure the Service, handle support, and comply with law. We may allow our service providers to do those things for us. This service license is limited by the Privacy Policy, your applicable choices, retention limits, and law; it is not permission to sell your recordings, commercially license your speech data, or publish private conversations.
 
-Optional Koel Labs model improvement and research sharing require the separate choices described in the Privacy Policy. Disabling those choices does not disable processing needed to provide requested features. Provider processing, including any provider-specific training or retention arrangements, is also explained there.
+**Three independent optional choices.** Koel Labs model improvement, research sharing, and commercial speech-data licensing each require their own separate, off-by-default choice described in the Privacy Policy. Disabling one does not disable the others or processing needed to provide requested features. Provider processing, including any provider-specific training or retention arrangements, is also explained there.
 
-The service-content license ends when the relevant data is deleted, except as necessary for lawful retained copies or uses already completed. There is no perpetual general license to exploit your private recordings. We do not claim ownership of your underlying words through AI generation. Generated outputs may not be unique or eligible for copyright; we cannot promise exclusive ownership or freedom from third-party rights. You may use your personalized feedback and lessons for your own learning and share them using functions we provide, with permission for any other person's information they contain.
+**Optional commercial speech-data licensing.** If you enable “Contribute to commercial speech development,” and the contribution is permitted under applicable age, consent, and other legal requirements, you grant Koel Labs a limited, worldwide, nonexclusive, royalty-free license to retain, reproduce, transfer, sell, and license or sublicense eligible speech recordings, transcripts, and related speech data to approved business partners for the speech AI development, training, testing, and evaluation purposes described in the Privacy Policy. This permission applies only to eligible data collected after you enable that choice, and only while authorized by your consent and applicable law. Koel Labs may receive commercial payment; you are not entitled to royalties or other compensation unless separately agreed.
+
+This optional license does not transfer ownership of Your Content, cover another person's speech without the required permission, authorize the sale of protected biometric information, or permit public release of identifiable raw recordings. The Privacy Policy governs eligibility, safeguards, recipient restrictions, and withdrawal and deletion rights. You may disable the commercial choice independently; this stops new commercial licensing based on that choice. Previous permitted processing and partner-held data remain subject to applicable law and the Privacy Policy.
+
+The service-content license ends when the relevant data is deleted, except as necessary for lawful retained copies or uses already completed. Optional contribution permissions end for future use under the withdrawn purpose, subject to applicable law and previously completed lawful uses. There is no perpetual general license to exploit your private recordings. We do not claim ownership of your underlying words through AI generation. Generated outputs may not be unique or eligible for copyright; we cannot promise exclusive ownership or freedom from third-party rights. You may use your personalized feedback and lessons for your own learning and share them using functions we provide, with permission for any other person's information they contain.
 
 If you send product suggestions, we may use the ideas without payment or attribution unless we agree otherwise. That permission does not override privacy protections for recordings, screenshots, or personal information accompanying the suggestion.
 
@@ -95,7 +99,7 @@ You can stop using the Service or request account deletion at any time. Manage a
 
 We may restrict or suspend access when reasonably necessary for a serious breach, security risk, fraud, unlawful conduct, or a legal requirement. When practical and lawful, we will explain the reason and give an opportunity to resolve it. Immediate action may be needed to protect people or systems. Contact support if you believe a restriction is a mistake.
 
-On termination, your license to access the Service ends. Privacy obligations, lawful payment obligations, intellectual-property provisions, and dispute/liability provisions survive as needed. Private-content permissions survive only to the limited extent described in section 6. Termination does not cancel nonwaivable consumer remedies or privacy rights.
+On termination, your license to access the Service ends. Privacy obligations, lawful payment obligations, intellectual-property provisions, and dispute/liability provisions survive as needed. Private-content permissions, including any optional commercial licensing, survive only to the limited extent described in section 6 and permitted by applicable law. Termination does not cancel nonwaivable consumer remedies or privacy rights.
 
 ## 10. Warranties and responsibility
 
@@ -111,7 +115,7 @@ To the extent permitted by law, you agree to reimburse us for reasonable third-p
 
 Washington State law governs these Terms, without overriding mandatory protections where you live. Subject to those protections, disputes may be brought in the state or federal courts with jurisdiction in King County, Washington. Consumers keep any right to use courts in their home jurisdiction. These Terms do not impose mandatory arbitration or a class-action waiver. Please contact us first if a problem can be resolved informally; doing so is not a barrier to urgent relief or exercising legal rights.
 
-We will give appropriate advance notice of material changes and request acceptance where required. Updates will not retroactively remove accrued rights. If you disagree, you can stop using the Service and exercise applicable cancellation or refund rights.
+We will give appropriate advance notice of material changes and request acceptance where required. A new commercial speech-data purpose requires its own affirmative consent and cannot be enabled merely by accepting revised Terms. Updates will not retroactively remove accrued rights. If you disagree, you can stop using the Service and exercise applicable cancellation or refund rights.
 
 If a provision is unenforceable, the remaining Terms continue to apply where lawful. Failure to enforce a provision is not a waiver. These Terms and any expressly agreed offer terms form the agreement for the Service; separate open-source licenses and mandatory law remain effective. A transfer of our agreement must not reduce your mandatory rights.
 
